@@ -1,0 +1,19 @@
+h1{
+    font-size: 5em;
+    text-align: center;
+    color: #000000;
+}
+img{
+    max-width: 50%;
+    max-height:50%;
+    margin-right: 250px;
+}
+body{
+    background-color: aqua;
+}
+p{
+    font-size: 30px;
+}
+li{
+    font-size: 30px;
+}
